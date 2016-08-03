@@ -1,8 +1,7 @@
 # bugeye
-Convert an image into a grid of solid hexagons. The grid can be arbitrarily scaled, rotated and shifted.
+Convert an image into a grid of solid hexagons. The grid can be arbitrarily scaled, rotated and shifted. I created this because I wanted a fairly particular look for my desktop background.
 
 Depends on the [https://python-pillow.org/](Python Imaging Library)
-
 
 ## Output
 ### Original
